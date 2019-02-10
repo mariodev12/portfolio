@@ -1,0 +1,36 @@
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+.hello-name {
+    font-size: 14px;
+    background-color: #003A55;
+    padding: 5px;
+    color:white;
+    border-radius: 3px; 
+    margin-bottom: 10px;
+}
+
+.title {
+    font-size: 58px;
+    max-width: 500px;
+    margin-top: 10px;
+}
+.description {
+    max-width: 480px;
+    font-weight: 100;
+    line-height: 1.4em;
+}
+.email-link {
+    text-decoration: none;
+    position: relative;
+}
+
+.email-link span {   
+    color: #003A55;
+    font-weight: 900;
+    max-width: 280px;
+    position: relative;
+}

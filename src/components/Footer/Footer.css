@@ -1,0 +1,36 @@
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex: 1;
+}
+.footer ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.footer-item {
+    color: #003A55;
+}
+
+.footer-item a {
+    text-decoration: none;
+    color: #003A55;
+}
+
+
+.footer ul li {
+    margin-right: 20px;
+}
+
+.footer ul li:last-child {
+    margin-right: 0;
+}
+
+.copyright-name {
+    font-weight: 200;
+    color: #003A55;
+}
