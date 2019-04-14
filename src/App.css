@@ -1,11 +1,11 @@
 .App {
-  max-width: 1200px;
-  margin: 0 auto;
-  font-family: 'Roboto'
+  font-family: 'Roboto';
 }
 
 .App-container {
-  margin: 0 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 10px;
 }
 
 .App-header {
@@ -24,13 +24,23 @@
   display: flex;
   flex: 1;
   align-items: center;
-  height: calc(100vh - 90px - 50px);
+  height: calc(100vh - 90px - 50px - 50px);
 }
 
 .App-footer {
   height: 50px;
   display: flex;
   align-items: center;
+}
+.bold-href {
+  color: #003A55;
+  font-weight: bold;
+  border-bottom: 3px solid #003A55;
+  text-decoration: none;
+}
+.bold {
+  color: #003A55;
+  font-weight: bold;
 }
 
 @media (max-width: 640px) {

@@ -27,9 +27,6 @@ class Footer extends Component {
                         </a>
                     </li>
                 </ul>
-                <div>
-                    <span className="copyright-name">2019 - Mario Diez</span>
-                </div>
             </div>
         );
     }

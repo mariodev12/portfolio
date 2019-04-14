@@ -2,6 +2,8 @@
     display: flex;
     justify-self: flex-end;
     flex-direction: row;
+    flex: 1;
+    justify-content: flex-end;
 }
 .header-menu ul {
     margin: 0;
@@ -17,4 +19,14 @@
 }
 .header-menu li {
     margin-left: 15px;
+}
+
+.header-menu a {
+    text-decoration: none;
+    color: #003A55;
+}
+
+.header-menu a:hover {
+    border-bottom: 3px solid #003A55;
+    animation: 1s ease-in;
 }

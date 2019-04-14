@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "title": "Netflix iOS App",
+        "url": "https://github.com/mariodev12/react-native-netflix",
+        "category": "react-native",
+        "image": "./covers/netflix-app.png"
+    },
+    {
+        "id": 2,
+        "title": "TheNextBus iOS App",
+        "url": "https://github.com/mariodev12/TheNextBus",
+        "category": "react-native",
+        "image": "./covers/the-next-bus.png"
+    },
+    {
+        "id": 3,
+        "title": "MoreTV MacOS App",
+        "url": "https://github.com/mariodev12/react-native-netflix",
+        "category": "electronjs",
+        "image": "./covers/moretv-app.png"
+    },
+    {
+        "id": 4,
+        "title": "uQR MacOS App",
+        "url": "https://github.com/mariodev12/uQR",
+        "category": "electronjs",
+        "image": "./covers/uqr-app.png"
+    },
+    {
+        "id": 5,
+        "title": "Shiftcase MacOS App",
+        "url": "https://itunes.apple.com/us/app/shiftcase/id1451459367?mt=12",
+        "category": "electronjs",
+        "image": "./covers/shiftcase-app.png"
+    },
+    {
+        "id": 6,
+        "title": "Movie Booking App UI",
+        "url": "https://github.com/uify/movie-booking-app",
+        "category": "react-native",
+        "image": "./covers/booking-movie-app.png"
+    },
+    {
+        "id": 7,
+        "title": "Weather iOS App",
+        "url": "https://github.com/uify/react-native-weather-app",
+        "category": "react-native",
+        "image": "./covers/weather-app.png"
+    }
+]
